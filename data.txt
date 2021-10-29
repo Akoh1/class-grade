@@ -1,0 +1,13 @@
+Jane Smith 80 70 40 80 90
+Eric Brown 70 50 75 87 95
+Abe Smith 45 35 70 87 93
+William Johnson 78 80 78 98 100
+Daphne Brown 71 83 94 70 97
+John Baldwin 78 86 93 63 94
+Connie Coleman 76 81 95 87 96
+Alexis Miller 85 93 87 98 99
+Johnny Ashby 75 79 87 81 89
+Stacy Jordan 90 84 86 91 92
+Grace Young 82 96 81 87 97
+Peter Tarver 73 80 77 72 85
+Debbie Johnson 94 100 97 91 98
